@@ -2,9 +2,9 @@
 const games = [
   {
     title: "Balatro",
-    cover: "./balatro_game/cover.jpeg",
-    background: "./balatro_game/banner.jpg",
-    link: "./balatro_game/Balatro/index.html"
+    cover: "https://github.com/velvet-bpm/truvel.github.io/blob/main/balatro_game/cover.jpeg",
+    background: "https://github.com/velvet-bpm/truvel.github.io/blob/main/balatro_game/banner.jpg",
+    link: "https://github.com/velvet-bpm/truvel.github.io/blob/main/balatro_game/index.html"
   },
   {
     title: "Spider-Man",
